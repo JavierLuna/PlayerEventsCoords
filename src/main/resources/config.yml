@@ -1,0 +1,5 @@
+discordWebHookURL: ""
+
+onPlayerJoins: true
+onPlayerLeaves: true
+onPlayerDies: true

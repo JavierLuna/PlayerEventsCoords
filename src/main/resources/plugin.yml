@@ -1,0 +1,5 @@
+name: PlayerEventsDiscord
+version: 1.0
+author: Javier Luna Molina
+main: com.thequietdeveloper.mc.playereventsdiscord.Main
+api-version: 1.18
