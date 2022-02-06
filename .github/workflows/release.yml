@@ -20,5 +20,5 @@ jobs:
       - name: Save jar as artifact
         uses: actions/upload-artifact@v2
         with:
-          name: Plugin jar
+          name: PlayerEventsDiscord.jar
           path: build/libs/PlayerEventsDiscord*.jar
